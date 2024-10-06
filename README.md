@@ -106,35 +106,6 @@ Results-oriented and innovative Software Engineer skilled in using Java, Go and 
   </a>
 </p>
 
-## 🚀 Projects
-
-### Distributed File Storage System
-
-A high-performance distributed file storage solution utilizing Go for backend logic.
-
-- **Tech Stack:** Go, MySQL, Redis, Ceph, MinIO RabbitMQ, Docker, Kubernetes, AWS S3
-- **Features:**
-  - Provides both public cloud (AWS S3) and private cloud (Ceph) storage services
-  - Utilizes Go-micro as the microservices framework
-  - Integrates Consul and Kubernetes as service registry centers
-  - Manages data persistence with MySQL and Redis
-  - Implements CI/CD pipelines using GitLab
-  - Containerized with Docker and orchestrated with Kubernetes
-
-[Source Code](GitHub link)
-
-### Senior Financial Management Application
-
-A multi-agent financial system with AI-powered transaction analysis.
-
-- **Tech Stack:** React, Java, SpringBoot, Python, Langchain, RabbitMQ, FastAPI
-- **Features:**
-  - Developed using Langgraph and Python
-  - Implements reverse proxy and deployment using Nginx
-  - Provides full-text and fuzzy search for transaction records using ElasticSearch
-  - Integrates AI assistant for analyzing user-uploaded transaction information
-
-[Source Code](GitHub link)
 
 ## 📊 GitHub Stats
 
