@@ -1,12 +1,196 @@
-- 👋 Hi, I’m @feichai0017
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello, I'm Guocheng Song 👋
 
-<!---
-feichai0017/feichai0017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+Results-oriented and innovative Software Engineer skilled in using Java, Go and JavaScript frameworks for both front-end and back-end web application development. Demonstrates strong execution skills, excels in teamwork, and maintains high learning and work efficiency.
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+</p>
+
+### Frontend Development
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </a>
+</p>
+
+### Backend Development
+
+<p align="left">
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  </a>
+  <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin" />
+  </a>
+</p>
+
+### Database
+
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  </a>
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  </a>
+</p>
+
+### DevOps & Tools
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://gradle.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+  </a>
+  <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+  </a>
+  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  </a>
+</p>
+
+## 🚀 Projects
+
+### Distributed File Storage System
+
+A high-performance distributed file storage solution utilizing Go for backend logic.
+
+- **Tech Stack:** Go, MySQL, Redis, Ceph, MinIO RabbitMQ, Docker, Kubernetes, AWS S3
+- **Features:**
+  - Provides both public cloud (AWS S3) and private cloud (Ceph) storage services
+  - Utilizes Go-micro as the microservices framework
+  - Integrates Consul and Kubernetes as service registry centers
+  - Manages data persistence with MySQL and Redis
+  - Implements CI/CD pipelines using GitLab
+  - Containerized with Docker and orchestrated with Kubernetes
+
+[Source Code](GitHub link)
+
+### Senior Financial Management Application
+
+A multi-agent financial system with AI-powered transaction analysis.
+
+- **Tech Stack:** React, Java, SpringBoot, Python, Langchain, RabbitMQ, FastAPI
+- **Features:**
+  - Developed using Langgraph and Python
+  - Implements reverse proxy and deployment using Nginx
+  - Provides full-text and fuzzy search for transaction records using ElasticSearch
+  - Integrates AI assistant for analyzing user-uploaded transaction information
+
+[Source Code](GitHub link)
+
+## 💼 Work Experience
+
+### Full-stack Developer Intern at Datap.ai, Sydney, Australia (2024.7 - present)
+
+- Develop and maintain websites using Vue and React frameworks alongside Node.js
+- Utilize Go with the go-micro framework for back-end development
+- Register services using Consul as the service registry
+- Integrate and manage generative AI, BI, and Airbyte services
+- Collaborate with cross-functional teams to ensure seamless integration and functionality
+
+### Data Analyst Intern at Seetrum, Shanghai, China (2023.9 - 2023.11)
+
+- Collected and organized information on potential customers and market trends
+- Conducted comparative analysis of competing products in the market
+- Analyzed data related to company products, including water quality testing and fruit maturity detection
+- Assisted in preparing data-driven reports to support marketing strategies and product development
+
+## 🏆 Certificates and Awards
+
+- Google Advanced Data Analytics Professional Certificate (2024)
+- Kaggle Competition: Chatbot Arena Human Preference Predictions (Silver medal, 2024)
+
+## 📫 Contact Me
+
+- Phone: +61 421436108
+- Email: Ericsgc@outlook.com
+- LinkedIn: [Guocheng Song](https://www.linkedin.com/in/guocheng-song-728580318)
+
+## 🌟 Thanks for visiting!
+
+Thank you for taking the time to view my GitHub profile. If you're interested in my projects or would like to collaborate, please feel free to reach out!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<style>
+  img[src^="https://img.shields.io"]:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  img[src^="https://komarev.com"]:hover {
+    animation: pulse 1s infinite;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+</style>
