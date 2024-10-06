@@ -138,7 +138,7 @@ A multi-agent financial system with AI-powered transaction analysis.
 
 ## 📊 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=feichai0017&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Contact Me
