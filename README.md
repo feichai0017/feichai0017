@@ -136,27 +136,10 @@ A multi-agent financial system with AI-powered transaction analysis.
 
 [Source Code](GitHub link)
 
-## 💼 Work Experience
+## 📊 GitHub Stats
 
-### Full-stack Developer Intern at Datap.ai, Sydney, Australia (2024.7 - present)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- Develop and maintain websites using Vue and React frameworks alongside Node.js
-- Utilize Go with the go-micro framework for back-end development
-- Register services using Consul as the service registry
-- Integrate and manage generative AI, BI, and Airbyte services
-- Collaborate with cross-functional teams to ensure seamless integration and functionality
-
-### Data Analyst Intern at Seetrum, Shanghai, China (2023.9 - 2023.11)
-
-- Collected and organized information on potential customers and market trends
-- Conducted comparative analysis of competing products in the market
-- Analyzed data related to company products, including water quality testing and fruit maturity detection
-- Assisted in preparing data-driven reports to support marketing strategies and product development
-
-## 🏆 Certificates and Awards
-
-- Google Advanced Data Analytics Professional Certificate (2024)
-- Kaggle Competition: Chatbot Arena Human Preference Predictions (Silver medal, 2024)
 
 ## 📫 Contact Me
 
@@ -168,29 +151,4 @@ A multi-agent financial system with AI-powered transaction analysis.
 
 Thank you for taking the time to view my GitHub profile. If you're interested in my projects or would like to collaborate, please feel free to reach out!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<style>
-  img[src^="https://img.shields.io"]:hover {
-    transform: scale(1.1);
-    transition: transform 0.3s ease-in-out;
-  }
-  
-  img[src^="https://komarev.com"]:hover {
-    animation: pulse 1s infinite;
-  }
-  
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.1);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
-</style>
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat-square&label=Profile+Views)
