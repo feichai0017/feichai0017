@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=feichai0017&show_icons=true&theme=tokyonight&card_width=400" alt="GitHub Stats" height="200"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feichai0017&layout=compact&theme=radical&card_width=320" alt="Top Languages" height="200"/>
 </p>
 
 ---
@@ -41,7 +40,7 @@
 </p>
 
 <p align="center">
-  🛠️ *Made with ❤️ by Guocheng — Happy Coding!*
+  🛠️ Made with ❤️ by Guocheng — Happy Coding!
 </p>
 
 ---
