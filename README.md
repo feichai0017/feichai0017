@@ -25,11 +25,6 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feichai0017&layout=compact&theme=tokyonight&langs_count=10&card_width=445" alt="top langs" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feichai0017&theme=tokyonight" alt="summary"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=feichai0017&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
 
