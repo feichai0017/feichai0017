@@ -20,8 +20,17 @@
 ## 🧠 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feichai0017&show_icons=true&theme=tokyonight&card_width=400" alt="GitHub Stats" height="200"/>
-  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=feichai0017&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=feichai0017&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feichai0017&layout=compact&theme=tokyonight&langs_count=10&card_width=445" alt="top langs" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feichai0017&theme=tokyonight" alt="summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=feichai0017&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
