@@ -31,15 +31,3 @@
   <a href="mailto:Ericsgc@outlook.com"><img src="https://img.shields.io/badge/Email-Ericsgc@outlook.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/guocheng-song-728580318"><img src="https://img.shields.io/badge/LinkedIn-Guocheng%20Song-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=feichai0017&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  🛠️ Made with ❤️ by Guocheng — Happy Coding!
-</p>
-
----
