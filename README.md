@@ -1,9 +1,4 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="banner" />
-</p>
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75000&center=true&vCenter=true&width=600&lines=Hi+I'm+Guocheng+Song;Software+Engineer+%2F+DB+Researcher;Rust+%7C+C%2B%2B+%7C+Go+Lover;Always+Learning+Something+Cool!" alt="Typing SVG" />
 </h1>
