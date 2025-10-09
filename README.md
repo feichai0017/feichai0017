@@ -16,7 +16,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=feichai0017&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=feichai0017&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feichai0017&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
