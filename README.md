@@ -15,8 +15,8 @@
 ## 🧠 GitHub Activity
 
 <p align="center">
-  <img height="165" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
-  <img height="165" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
+  <img height="165" src="./profile-summary-card-output/rose_pine/3-stats.svg" alt="stats" />
+  <img height="165" src="./profile-summary-card-output/rose_pine/2-most-commit-language.svg" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">

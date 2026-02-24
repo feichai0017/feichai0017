@@ -22,4 +22,32 @@ jobs:
           USERNAME: feichai0017
           BRANCH_NAME: main
           UTC_OFFSET: 8
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      - name: Apply visual tweaks to selected cards
+        run: |
+          set -euo pipefail
+          target_files=(
+            "profile-summary-card-output/rose_pine/3-stats.svg"
+            "profile-summary-card-output/rose_pine/2-most-commit-language.svg"
+          )
+
+          for file in "${target_files[@]}"; do
+            if [[ -f "${file}" ]]; then
+              sed -i "s/font-family: 'Segoe UI', Ubuntu, \"Helvetica Neue\", Sans-Serif/font-family: 'Maple Mono CN', 'Maple Mono', 'SF Mono', 'JetBrains Mono', 'Segoe UI', Ubuntu, \"Helvetica Neue\", Sans-Serif/g" "${file}"
+            fi
+          done
+
+      - name: Commit and push generated cards
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: refresh profile summary cards"
+          git push origin HEAD:main
