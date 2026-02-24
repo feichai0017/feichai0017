@@ -15,8 +15,8 @@
 ## 🧠 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=feichai0017&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feichai0017&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+  <img height="165" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
