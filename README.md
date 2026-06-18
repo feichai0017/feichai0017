@@ -10,14 +10,7 @@
   🌱 I love combining systems thinking with product creativity – from kernel to UI. <br/>
 </p>
 
----
-
 ## 🧠 GitHub Activity
-
-<p align="center">
-  <img height="165" src="./profile-summary-card-output/rose_pine/3-stats.svg" alt="stats" />
-  <img height="165" src="./profile-summary-card-output/rose_pine/2-most-commit-language.svg" alt="Top Languages by Commit" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=feichai0017&theme=tokyo-night&hide_border=true" alt="activity graph"/>
