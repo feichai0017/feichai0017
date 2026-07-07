@@ -5,8 +5,8 @@
 
 
 <p align="center">
-  💻 Passionate about <b>database internals</b>, <b>systems design</b>, and <b>low-level performance optimisation</b>. <br/>
-  🚀 Currently exploring <b>Rust-based storage engines</b> and <b>JIT-optimised query execution</b>. <br/>
+  💻 Passionate about <b>AI Infra</b>, <b>systems design</b>, and <b>low-level performance optimisation</b>. <br/>
+  🚀 Currently exploring <b>Rust-based storage engines</b> and <b>LLM inference system</b>. <br/>
   🌱 I love combining systems thinking with product creativity – from kernel to UI. <br/>
 </p>
 
