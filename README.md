@@ -11,12 +11,14 @@
 </p>
 
 ## 🧠 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=feichai0017&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+  <a href="https://ghfind.com/u/feichai0017?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/feichai0017?theme=dark&lang=zh" />
+      <img src="https://ghfind.com/api/card/mini/feichai0017?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+    </picture>
+  </a>
 </p>
-
----
 
 ## 🌍 Connect with Me
 
